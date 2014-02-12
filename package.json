@@ -1,0 +1,8 @@
+{
+    "name": "ftpd",
+    "version": "0.0.1",
+    "description": "",
+    "repository": "git://github.com/leonpegg/ftpd.git",
+    "dependencies": {},
+    "main": "index"
+}
