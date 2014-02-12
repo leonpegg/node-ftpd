@@ -45,8 +45,8 @@ Not yet implemented
 ## Roadmap
 
  * Complete RFC959 implementation
- * Create authentication addon support
- * Create filesystem addon support
+ * Implement authentication addon support
+ * Implement filesystem addon support
  * Implement RFC2228
  * Implement RFC2428
 
