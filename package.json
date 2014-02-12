@@ -3,6 +3,14 @@
     "version": "0.0.1",
     "description": "Node FTP server",
     "repository": "git://github.com/leonpegg/node-ftpd.git",
+    "author": "Leon Pegg",
     "dependencies": {},
-    "main": "index"
+    "devDependencies": {
+        "mocha": "~1.17.1"
+    },
+    "main": "index",
+    "scripts": {
+        "test": "mocha"
+    },
+    "license": "MIT"
 }
