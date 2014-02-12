@@ -1,7 +1,7 @@
 {
     "name": "node-ftpd",
     "version": "0.0.1",
-    "description": "",
+    "description": "Node FTP server",
     "repository": "git://github.com/leonpegg/node-ftpd.git",
     "dependencies": {},
     "main": "index"
