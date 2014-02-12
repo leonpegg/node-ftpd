@@ -17,7 +17,7 @@ npm link node-ftpd
 You can run unit tests:
 
 ```bash
-# From your project where ftp-server has been installed as a module
+# From your project where node-ftpd has been installed as a module
 npm test node-ftpd
 
 # Or directly from node-ftpd
