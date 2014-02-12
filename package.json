@@ -1,8 +1,8 @@
 {
-    "name": "ftpd",
+    "name": "node-ftpd",
     "version": "0.0.1",
     "description": "",
-    "repository": "git://github.com/leonpegg/ftpd.git",
+    "repository": "git://github.com/leonpegg/node-ftpd.git",
     "dependencies": {},
     "main": "index"
 }
